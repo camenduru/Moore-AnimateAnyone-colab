@@ -19,6 +19,7 @@ https://humanaigc.github.io/animate-anyone/
 
 ### 🖼 Output
 
+https://github.com/camenduru/Moore-AnimateAnyone-colab/assets/54370274/96580f15-4abe-42b6-974b-bf51ae25afcc
 
 ### 🏢 Sponsor
 https://modelslab.com
